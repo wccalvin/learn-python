@@ -1,4 +1,4 @@
-# An instance of a class knows what class its from.
+"""RULE 1: An instance of a class knows what class its from."""
 
 class MyClass(object):
 	pass
