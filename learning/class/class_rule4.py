@@ -9,11 +9,19 @@ class MyClass(object):
 	def dothis(self):
 		self.rand_val = randint(25, 50)
 
-myInst = MyClass()
-myInst.dothis()
+myInst1 = MyClass()
+myInst1.dothis()
 
-print "Unchanged data: ", myInst.var_stable
+myInst2 = MyClass()
+myInst2.dothis()
 
-print "Changeable data: ", myInst.rand_val
+print "First instance: %s"%myInst1
+print "Unchanged data from first instance : ", myInst1.var_stable
+print "Changeable data from first instance: ", myInst2.rand_val
+
+
+print "Second instance: %s"%myInst2
+print "Unchanged data from second instance : ", myInst1.var_stable
+print "Changeable data from second instance: ", myInst2.rand_val
 
 # To experiment run this code few times.
