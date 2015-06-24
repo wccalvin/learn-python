@@ -1,9 +1,3 @@
-#!/usr/bin/python
-
-# Empty String
-x = ''
-print x
-
 # String search method
 s = "This is fun"
 find = s.find('fu')

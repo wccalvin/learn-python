@@ -1,0 +1,23 @@
+=============
+String Basics
+=============
+1. String is a sequence of characters. 
+
+2. They are indexed starting with 0
+ 	"hello"
+	 |||||
+	 01234
+
+3. We can access one character at a time using bracket operator as below:
+    x = "hello"
+	y = x[0] --> gets 'h'
+
+4. We can create an empty string by assigning to an variable as below:
+    x = ""
+   
+5. We can use negative indices:
+	"h  e  l  l  o"
+	 |  |  |  |  |
+	 0  1  2  3  4 --> positive indices
+	 |  |  |  |  |
+	-5 -4 -3 -2 -1 --> negative indices
