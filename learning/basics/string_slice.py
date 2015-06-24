@@ -8,6 +8,9 @@ x = "my string"
      |||||||||
      012345678
 """
-slice = x[3:6] # inclues the s(3) but excludes the i(6)
+slice = x[3:6] # includes the s(3) but excludes the i(6)
 
 print slice
+
+
+print x[:] #prints the whole string.
