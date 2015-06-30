@@ -18,6 +18,9 @@ class Class(object):
 	def return_value(self):
 		return self.value
 
+
+print "-" * 10, "Example 1", "-" * 10
+
 inst1 = Class()
 inst1.given_value("wccalvin")
 print inst1.return_value()
@@ -35,10 +38,10 @@ print inst2.return_value()
 
 class Integer(object):
 
-	def set_value(self, value):
+	def set_value(self, val):
 		try:
-			value = int(value)
-		except ValueError:
+			value = int(val)
+		except ValueError as err:
 			return
 		self.value = value
 
@@ -48,12 +51,18 @@ class Integer(object):
 	def increment(self):
 		return "Increment value by 10: {}".format(self.value + 10)
 
-int_inst = Integer()
+print "-" * 10, "Example 2", "-" * 10
+int_inst  = Integer()
 int_inst.set_value(5)
-print "Assigned value: {}".format(int_inst.get_value())
-print "Assigned value incremented by 10: {}".format(int_inst.increment())
+value     = int_inst.get_value()
+increment = int_inst.increment()
+print "Assigned value: {}".format(value)
+print "Assigned value incremented by 10: {}".format(increment)
 
 # Break the code by assigning a string value instead of integer.
-int_inst.value = "String"
-print "Assigned value incremented by 10: {}".format(int_inst.increment())
+int_inst.set_value("string")
+current_value  = int_inst.get_value()
+print "Current value before incrementing: {}".format(current_value)
+test_increment = int_inst.increment()
+print "Assigned value incremented by 10: {}".format(test_increment)
 
