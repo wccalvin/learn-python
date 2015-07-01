@@ -8,7 +8,9 @@ Encapsulation:
 3. Summary: Setting the value in the object with the use of the setter method shown below is called Encapsulation.
 """ 
 
-#----------------- Example 1 ---------------------
+import format
+
+#----------------- Example 1 ----------------------
 
 class Class(object):
 
@@ -18,8 +20,7 @@ class Class(object):
 	def return_value(self):
 		return self.value
 
-
-print "-" * 10, "Example 1", "-" * 10
+format.example("-", 1, 20)
 
 inst1 = Class()
 inst1.given_value("wccalvin")
@@ -33,6 +34,7 @@ print inst2.return_value()
 inst2.value = "***Hello World!***"
 print inst2.return_value()
 
+format.end("-", 26)
 
 #----------------- Example 2 ----------------------
 
@@ -51,7 +53,7 @@ class Integer(object):
 	def increment(self):
 		return "Increment value by 10: {}".format(self.value + 10)
 
-print "-" * 10, "Example 2", "-" * 10
+format.example("-", 1, 20)
 int_inst  = Integer()
 int_inst.set_value(5)
 value     = int_inst.get_value()
@@ -65,4 +67,4 @@ current_value  = int_inst.get_value()
 print "Current value before incrementing: {}".format(current_value)
 test_increment = int_inst.increment()
 print "Assigned value incremented by 10: {}".format(test_increment)
-
+format.end("-", 26)

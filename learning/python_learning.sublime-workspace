@@ -1,0 +1,1004 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"increment"
+			],
+			[
+				"int",
+				"int_inst"
+			],
+			[
+				"inc",
+				"increment"
+			],
+			[
+				"im",
+				"imagelib"
+			],
+			[
+				"ima",
+				"imageName"
+			],
+			[
+				"del",
+				"delta_name"
+			],
+			[
+				"set",
+				"set_value"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"my",
+				"myInst1"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"rank",
+				"ranks"
+			],
+			[
+				"su",
+				"suits"
+			],
+			[
+				"s",
+				"sides"
+			],
+			[
+				"i",
+				"inst2"
+			],
+			[
+				"ra",
+				"rand_val"
+			],
+			[
+				"My",
+				"MyInst2"
+			],
+			[
+				"filte",
+				"filtered_list"
+			],
+			[
+				"mat",
+				"match_str"
+			],
+			[
+				"com",
+				"comObj"
+			],
+			[
+				"con",
+				"contents_dif_ext"
+			],
+			[
+				"cont",
+				"contents_odb_ext"
+			],
+			[
+				"l",
+				"listToPlot"
+			],
+			[
+				"co",
+				"common"
+			],
+			[
+				"not",
+				"not_exist"
+			],
+			[
+				"no",
+				"not_exist"
+			],
+			[
+				"av",
+				"active_results"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"c",
+				"c1"
+			],
+			[
+				"SMA_",
+				"SMA_PLATFORM"
+			],
+			[
+				"run",
+				"runExternalProgam"
+			],
+			[
+				"li",
+				"listname"
+			],
+			[
+				"fil",
+				"file_to_write"
+			],
+			[
+				"master",
+				"master_node_settings"
+			],
+			[
+				"en",
+				"env"
+			],
+			[
+				"ma",
+				"master_node_settings"
+			],
+			[
+				"ips",
+				"ips_checked"
+			],
+			[
+				"wri",
+				"write_xml"
+			],
+			[
+				"ip",
+				"ip"
+			],
+			[
+				"mast",
+				"master_node"
+			],
+			[
+				"xml",
+				"xmlObj"
+			],
+			[
+				"po",
+				"portNumber"
+			],
+			[
+				"ana",
+				"analysisNode"
+			],
+			[
+				"El",
+				"ElementTree"
+			],
+			[
+				"mac",
+				"machines"
+			],
+			[
+				"machi",
+				"machine"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"jo",
+				"job_name"
+			],
+			[
+				"direc",
+				"directory"
+			],
+			[
+				"des",
+				"dest"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"fr",
+				"format"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"lo",
+				"logObj"
+			],
+			[
+				"log",
+				"logObj"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"job",
+				"job_name"
+			],
+			[
+				"fe",
+				"fesafe_command"
+			],
+			[
+				"pro",
+				"proc"
+			],
+			[
+				"so",
+				"source_dir_name"
+			],
+			[
+				"cop",
+				"copy_directory"
+			],
+			[
+				"lic",
+				"lic"
+			],
+			[
+				"le",
+				"license_check"
+			],
+			[
+				"lice",
+				"license_path"
+			],
+			[
+				"di",
+				"dirname"
+			],
+			[
+				"sou",
+				"source_dir"
+			],
+			[
+				"inp",
+				"inpName"
+			],
+			[
+				"msg",
+				"msg_message"
+			],
+			[
+				"fo",
+				"found"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"e",
+				"examine_type"
+			],
+			[
+				"v",
+				"variable"
+			],
+			[
+				"exa",
+				"examine_type"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"lis",
+				"list"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"diff",
+				"DIFFs"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"new",
+				"new_line"
+			],
+			[
+				"wr",
+				"write_file"
+			],
+			[
+				"te",
+				"temp"
+			],
+			[
+				"t",
+				"temp"
+			],
+			[
+				"rea",
+				"readstdout"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"mx",
+				"max_value"
+			],
+			[
+				"ca",
+				"cache"
+			],
+			[
+				"la",
+				"latest"
+			],
+			[
+				"u",
+				"udev"
+			],
+			[
+				"son",
+				"song2"
+			],
+			[
+				"suit",
+				"suit"
+			],
+			[
+				"rol",
+				"rolls"
+			],
+			[
+				"G",
+				"Greeter"
+			],
+			[
+				"remo",
+				"removing_block"
+			],
+			[
+				"ad",
+				"adding_block"
+			],
+			[
+				"de",
+				"delete_entry"
+			],
+			[
+				"d",
+				"delete_entry"
+			],
+			[
+				"add",
+				"add_entry"
+			],
+			[
+				"us",
+				"usg"
+			],
+			[
+				"tes",
+				"testName"
+			],
+			[
+				"user",
+				"usernotify"
+			],
+			[
+				"env",
+				"environ"
+			],
+			[
+				"gi",
+				"given"
+			],
+			[
+				"sui",
+				"suites"
+			],
+			[
+				"pri",
+				"print_list"
+			],
+			[
+				"du",
+				"dupes"
+			],
+			[
+				"sea",
+				"search_identifier"
+			],
+			[
+				"sear",
+				"Search"
+			],
+			[
+				"sys",
+				"system_cmd"
+			],
+			[
+				"ver",
+				"verbose"
+			],
+			[
+				"o",
+				"other_results"
+			],
+			[
+				"ba",
+				"branch"
+			],
+			[
+				"if",
+				"if_include"
+			],
+			[
+				"I",
+				"IGNORECASE"
+			],
+			[
+				"eac",
+				"each_input"
+			],
+			[
+				"ea",
+				"each_input"
+			],
+			[
+				"ap",
+				"append_location"
+			],
+			[
+				"fou",
+				"found_inp_locations"
+			],
+			[
+				"to",
+				"total_with_sorting"
+			],
+			[
+				"ta",
+				"total_without_sorting"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "class/encapsulation.py",
+			"settings":
+			{
+				"buffer_size": 1846,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"Package Control: pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"perl",
+				"PerlTidy: Tidy"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vwj/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SLWLMXGC/StarCCMPlus_Setup_Win7x64_VM_9_06.txt",
+		"/C/cygwin64/home/VWJ/ck1/learning/class/import_settings.py",
+		"/C/cygwin64/home/VWJ/ck1/learning/class/class_rule1.py",
+		"/U/users/vwj/util/python/odt_updateSubmission.py",
+		"/D/users/vwj/do_not_delete/examples/tweet.sikuli/tweet.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/Scenarios/Smoketest.sikuli/Smoketest.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/SikuliTestFramework/Import.sikuli/Import.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/SikuliTestFramework/Start.sikuli/Start.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/SikuliTestFramework/dictionary.py",
+		"/D/users/vwj/do_not_delete/examples/settings.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/SikuliTestFramework/Settings.sikuli/Settings.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/Scenarios/settings.py",
+		"//skynet/push/radmin/radmin_info.txt",
+		"/D/users/vwj/do_not_delete/examples/startup.sikuli/startup.py",
+		"/D/users/vwj/do_not_delete/examples/PyModules/imagelib.py",
+		"//skynet/push/radmin/README.txt",
+		"/D/users/vwj/do_not_delete/AutomaticTests/SikuliTestFramework/Flow.sikuli/Flow.py",
+		"/U/users/vwj/util/python/odt_updateSubmission_working.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/tweet.sikuli/tweet.py",
+		"//filer2sim/qa/qa/vus/do_not_delete/noisy/xs_x_m3d4r_initstress/lnx_800/lukesim/xs_x_m3d4r_initstress.odif",
+		"/C/Users/vwj/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SLWLMXGC/Sub_Ren_amsFree.xml",
+		"/C/Users/vwj/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SLWLMXGC/biw_assem.xml",
+		"/U/users/vwj/util/python/uszip.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/SikuliTestFramework/Materials.sikuli/Materials.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/SikuliTestFramework/Thermal.sikuli/Thermal.py",
+		"/D/users/vwj/do_not_delete/AutomaticTests/SikuliTestFramework/Close.sikuli/Close.py",
+		"/U/users/vwj/util/python/create_list.py",
+		"/U/users/vwj/util/python/createListForPlot.py",
+		"/U/users/vwj/util/python/scan_through_log_files.py",
+		"//wjhsim/D/AutomaticTests/Scenarios/settings.py",
+		"//wjhsim/D/AutomaticTests/Scenarios/HTMLTestRunner.py",
+		"//filer2sim/r/release_management/qc/localSimuliaCoverageData/SimuliaCoverage/SMATstLocal.tst/FunctionTests/Output/win_b64/ec36vfsj_context1089_mc.txt",
+		"//filer2sim/r/release_management/qc/active_results/ABQr217/verification/linux_a64/pdmn_e60_thoraxbag_impact_2002_fabric.xml/969/pdmn_e60_thoraxbag_impact_2002_fabric_comparedToGeneratedODB.sdif",
+		"//filer2sim/r/release_management/qc/active_results/ABQr217/verification/linux_a64/pdmn_e87thorax_m3d3_fabricmat_blockage.xml/969/pdmn_e87thorax_m3d3_fabricmat_blockage_comparedToGeneratedODB.sdif",
+		"//filer2sim/r/release_management/qc/active_results/ABQr217/verification/linux_a64/pdmn_e87thorax_m3d3_fabric_blockage.xml/969/pdmn_e87thorax_m3d3_fabric_blockage_comparedToGeneratedODB.sdif",
+		"/U/users/vwj/util/python/fesafe_DMP.py",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/settings/fill-column-indicator-settings.el",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/settings/python-settings.el",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/settings/color-theme-settings.el",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/emacs-for-python/epy-editing.el",
+		"/C/Users/vwj/Desktop/rms.bat",
+		"/C/Users/vwj/Desktop/cmd.bat",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/emacs-for-python/epy-completion.el",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/emacs-for-python/epy-init.el",
+		"/R/release_management/qc/active_results/DEVr418/verification/win_b64/contourintegral_sen_xfem_c3d8_base.xml/632/contourintegral_sen_xfem_c3d8_residual.dat",
+		"/R/release_management/qc/active_results/DEVr418/verification/win_b64/contourintegral_sen_xfem_c3d8_base.xml/632/contourintegral_sen_xfem_c3d8_base.xml.log",
+		"/R/release_management/qc/active_results/DEVr418/verification/win_b64/contourintegral_sen_xfem_c3d8_base.xml/632/contourintegral_sen_xfem_c3d8_base.dat",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/color-theme-6.6.0/color-theme.el",
+		"/C/Users/vwj/Downloads/python-mode.el-6.2.0/python-mode.el",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/settings/auto-complete-settings.el",
+		"/D/users/vwj/emacs-minimal-python/minimal-emacs-configuration/init.el",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/init.el",
+		"/D/users/vwj/emacs-minimal-python/minimal-emacs-configuration/show-keys.el",
+		"/U/users/vwj/util/python/rerun_from_csv.py",
+		"/U/users/vwj/util/python/test_1.py",
+		"/U/users/vwj/util/python/getIpAndWriteXML.py",
+		"/U/users/vwj/util/python/fesafe_DMP_working.py",
+		"/U/users/vwj/util/perl/add_paddingToQueueWallClock.pl",
+		"/C/Users/vwj/Desktop/sscxsec_erosion.xml",
+		"/C/Users/vwj/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SX9H69TL/sscxsec_erosion (3).xml",
+		"//laxsilo2/Swxbuilds/DiffusionTest/r418/simfeala418/validation__1429186231_1428526225_1428526370/SMAFeaDesigner.tst/FunctionTests/Output/win_b64/SMADesignerTstRecHinge.traces",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/emacs-color-theme-solarized-master/color-theme-solarized.el",
+		"/C/Users/vwj/AppData/Roaming/.emacs.d/emacs-color-theme-solarized-master/solarized-theme.el",
+		"/C/Users/vwj/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SX9H69TL/mpi_aborts_950.txt",
+		"/C/Users/vwj/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SX9H69TL/1543.txt",
+		"/D/users/vwj/FeSafe6/master_node_settings.xml",
+		"/D/temp/vwj/fesafe_3/LC1/shaft1a.log",
+		"/D/temp/vwj/fesafe_3/LC2/shaft2.log",
+		"/D/temp/vwj/fesafe_3/LC1/shaft1.log",
+		"/D/temp/vwj/fesafe_3/IFES_EX6_fast.macro",
+		"/D/temp/vwj/fesafe_2/jobs/job_01/fe-results/shaft_614Results.log",
+		"/D/temp/vwj/fesafe_2/jobs/job_01/fe-results/summary.log",
+		"/D/temp/vwj/fesafe_2/IFES_EX6_fast.macro",
+		"/D/users/vwj/FeSafeInstall/master_node_settings.xml",
+		"/D/users/vwj/FeSafeInstall/output/debug_SMP.log",
+		"/D/users/vwj/FeSafeInstall/projects/project_01/IFES_EX6_LC3.macro",
+		"/U/users/vwj/util/python/fix_1.py",
+		"/C/Users/vwj/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/D/users/vwj/FeSafeInstall/projects/project_01/jobs/job_01/fe-results/shaft_614Results.log",
+		"/D/users/vwj/FeSafeInstall/projects/project_01/jobs/job_01/fe-results/shaft_614Results_SMP.log",
+		"/D/users/vwj/FeSafeInstall/output/debug.log",
+		"/D/users/vwj/FeSafeInstall/projects/project_01/IFES_EX6_fast.macro",
+		"/D/users/vwj/FeSafeInstall/projects/project_01/LC1/shaft1.log",
+		"/C/Users/vwj/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SX9H69TL/analysisNode.log",
+		"/U/users/vwj/util/perl/xml_open_fix.pl",
+		"/U/users/vwj/util/perl/open_xml.pl",
+		"/Q/qa/users/vwj/test_execution/SIMr418/rerun_1/needToRun_SIMr418_suites_win_b64_submit",
+		"/Q/qa/users/vwj/test_execution/SIMr418/rerun_1/needToRun_SIMr418_suites_linux_a64_submit",
+		"/Q/qa/users/vwj/test_execution/SIMr418/rerun/fullRun_DEVr418_suites_win_b64",
+		"/Q/qa/users/vwj/test_execution/SIMr418/rerun/fullRun_DEVr418_suites_linux_a64",
+		"//filer2sim/r/release_management/qc/active_results/DEVr418/verification/linux_a64/WorldSID_A2A115V11.xml/774/WorldSID_A2A115V11.xml.log",
+		"//filer2sim/r/release_management/qc/active_results/DEVr418/verification/linux_a64/WorldSID_A2A115V11.xml/774/WorldSID_A2A115V11.dat",
+		"//filer2sim/r/release_management/qc/active_results/DEVr418/verification/linux_a64/WorldSID_A2A115V11.xml/774/WorldSID_A2A115V11.odif",
+		"/R/release_management/qc/other_results/vus/do_not_delete/fe-safe-14972-linux/install.sh",
+		"/U/users/vwj/util/python/class/class2.py",
+		"/U/users/vwj/util/python/class/class1.py",
+		"/U/users/vwj/util/python/rerun_suites.py",
+		"/U/users/vwj/util/python/find_certified.py",
+		"/U/users/vwj/util/python/fix.py",
+		"/U/users/vwj/util/python/find_certified_add.py",
+		"/C/Users/vwj/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SX9H69TL/res_lnx (2).txt",
+		"//filer2sim/r/release_management/qc/active_results/ABQr217/verification/win_b64/recovery-tetdt2p5.xml/806/recovery-tetdt2p5.xml.log",
+		"//filer2sim/r/release_management/qc/active_results/DEVr418/verification/linux_a64/heart.xml/863/heart-elec.use",
+		"/U/users/vwj/util/python/login_block.py",
+		"/U/users/vwj/util/python/part_of_suite.py",
+		"/U/users/vwj/util/python/fesafe_lic.py",
+		"/U/users/vwj/util/python/find_duplicates.py",
+		"/U/users/vwj/util/python/conv2csv.py",
+		"/U/users/vwj/util/python/tree.py",
+		"//filer2sim/r/release_management/qc/active_results/DEVr418/verification/linux_a64/heart.xml/863/heart.xml.log",
+		"//filer2sim/r/release_management/qc/active_results/DEVr418/verification/linux_a64/heart.xml/863/heart-elec.dat",
+		"//yachtsim/temp/vwj/runODT/SMAHvsEngine.tst/FunctionTests/Output/win_b64/SMAHvsTstVizCFD.traces",
+		"/U/users/vwj/util/perl/learning/sub2.pl",
+		"/X/qa/vwj/dummies/beta2/822/pdmn_bmw_e60_biw_8dmn.odif",
+		"/X/qa/vwj/dummies/beta2/822/pdmn_bmw_e60_biw_8dmnqa_ftss.log",
+		"//filer2sim/r/release_management/qc/active_results/RELr418/verification/win_b64/shell-offset-vertex-contact.xml/1130/shell-offset-vertex-contact.odif",
+		"//filer2sim/r/release_management/qc/active_results/RELr418/verification/linux_a64/Intel_chippackage_global_xfem.xml/1542/Intel_chippackage_local_xfem.odif",
+		"//filer2sim/r/release_management/qc/active_results/RELr418/verification/linux_a64/WorldSID_T1A90V22.xml/966/WorldSID_T1A90V22_comparedToArchivedODB.sdif",
+		"//filer2sim/r/release_management/qc/active_results/RELr418/verification/win_b64/TO71_multistage-v3-short-nomerge.xml/632/TO71_multistage-v3-short-nomerge.odif",
+		"//filer2sim/r/release_management/qc/active_results/RELr418/verification/win_b64/rect_cpe4rp_xfem_newdebond_inidam.xml/632/rect_cpe4rp_xfem_newdebond_inidam.odif",
+		"/P/inet/groups/pd/rm/content/QC/Reports/Manual/branch_release_map.txt",
+		"/U/users/vwj/util/find_duplicates.py",
+		"/C/Users/vwj/alias.bat",
+		"//l0315sim/wdir/FM_Test/FM_full_load.stlx",
+		"/U/users/vwj/util/python/prep_fix.py",
+		"/U/users/vwj/util/python/fesafe.py",
+		"/C/Users/vwj/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SX9H69TL/one.txt",
+		"/D/wdir/vwj/make_PFS/tables/qcutilsim_abaqus60.cron"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3dxml",
+			"open",
+			"out.dat",
+			">\"",
+			"0",
+			"auto-complete",
+			"\"\n",
+			"LATEST",
+			"-purge  ",
+			"-checkQueue  ",
+			"-abortfailurelimit 75:50:25 ",
+			"-purge  ",
+			"-notifyifsuiteaborts  ",
+			"-noqueueinfooutput ",
+			"simulia.qc@3ds.com",
+			" -checkQueue  ",
+			"-abortfailurelimit 75:50:25 ",
+			"-notifyifsuiteaborts  ",
+			"-noqueueinfooutput ",
+			"LATEST",
+			"-queuepriority 65",
+			"-notifyifsuiteaborts  ",
+			"simulia.qc@3ds.com",
+			"/operationalExecution",
+			" -checkQueue  ",
+			" -purge ",
+			"-abortfailurelimit 75:50:25 ",
+			"-notifyifsuiteaborts  ",
+			"-noqueueinfooutput ",
+			"/operationalExecution",
+			"$",
+			"-queuepriority 65",
+			"simulia.qc@3ds.com",
+			"-dir '$TMPDIR/$USER' ",
+			" -checkQueue  ",
+			"-abortfailurelimit 75:50:25",
+			"-pl",
+			"queue long",
+			"$",
+			"-br DEVr418 -cont",
+			"queueJobGroup /projects/compSIMSymmetric ",
+			"-queueJobGroup /projects/compSIMSymmetric ",
+			"print",
+			"pring",
+			"open",
+			"user",
+			"os.sep + 't'",
+			"()",
+			"\n			",
+			"update",
+			"[]",
+			"print",
+			"my_current_path",
+			"branch",
+			"print",
+			"cop",
+			"#",
+			"test",
+			"0",
+			"job",
+			"run",
+			"runjobs",
+			"abq",
+			"spawn",
+			"suite",
+			"com",
+			"shif",
+			"        ",
+			"grep",
+			"@conf",
+			"        ",
+			" 	.",
+			"/\"",
+			"gz_glob",
+			"FEM00081",
+			"\";\n",
+			"elephant",
+			"n",
+			"    #",
+			"pdmn-wed-hex-ke-cfd-xpl",
+			"pdmn-wed-hex-ke-xpl",
+			"dep.list",
+			"args",
+			"dep.list",
+			"platfor",
+			"dep.list",
+			"en",
+			"platfor",
+			"\"\"",
+			" \"",
+			"n",
+			" \"",
+			"test_id",
+			"listPatter",
+			"file",
+			"			</",
+			"getcwd",
+			"argv",
+			"def",
+			"IGNORECASE",
+			"listPattern",
+			"list",
+			"-list",
+			"doublePrecision",
+			"\n    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"141440",
+			"",
+			"vwj@3ds.com,vus@3ds.com,gn4@3ds.com,r6e@3ds.com",
+			"",
+			"141440",
+			"-queuepriority 95",
+			"",
+			"vwj@3ds.com,vus@3ds.com,gn4@3ds.com,r6e@3ds.com",
+			"/projects/compSIMSymmetric",
+			"",
+			"/projects/compSIMSymmetric",
+			" -qcswitch SIMr418",
+			"-queuepriority 95",
+			"vwj@3ds.com,vus@3ds.com,gn4@3ds.com,r6e@3ds.com",
+			"",
+			"-runteston",
+			"queue qcap",
+			" -queue long",
+			"-queue long",
+			"-cont",
+			"-queueJobGroup /projects/compSIMSymmetric ",
+			"",
+			"'t:'",
+			"try",
+			"import",
+			"pdmn-wed_hex_KEpsReal_cfd_xpl",
+			"pdmn-wed_hex_KEpsReal_xpl"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "class/encapsulation.py",
+					"settings":
+					{
+						"buffer_size": 1846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1020,
+								1020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/U/users/vwj/util/python/copy_baselines.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
