@@ -1,5 +1,9 @@
 """
 Class Attributes vs Instance Attributes
+
+In the below,
+	class_data is a class attribute.
+	inst_data is an instance attribute.
 """
 import format
 
