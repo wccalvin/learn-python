@@ -28,4 +28,3 @@ String Basics
    If we need to do something like that, we can try as below:
     x = "hello"
     x = "j" + x[1:] # by taking advantage of slice
-    
