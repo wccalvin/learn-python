@@ -1,14 +1,16 @@
+__author__ = 'wccalvin'
+
 x = "STRING"
 
 # Loop through x using for
-print "Using for loop:"
+print("Using for loop:")
 for i in list(x):
-	print i
+	print(i)
 
 # Loop through x using while
-print "Using while loop:"
+print("Using while loop:")
 index = 0
 while index < len(x):
-	print x[index]
+	print(x[index])
 	index += 1
 

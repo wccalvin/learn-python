@@ -1,3 +1,5 @@
+__author__ = 'wccalvin'
+
 def find(word, letter):
     index = 0
     while index < len(word):
@@ -9,6 +11,6 @@ def find(word, letter):
 status = find("clayton", "c")
 
 if status != -1:
-    print "Found match."
+    print("Found match.")
 else:
-    print "No match found."
+    print("No match found.")

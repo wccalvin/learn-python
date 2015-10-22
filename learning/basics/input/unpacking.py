@@ -5,6 +5,8 @@ from sys import exit
 
 parse_all = argv
 
+print("Given command args: {}".format(parse_all))
+
 if len(parse_all) < 5:
     print("Not enough values to parse and print.")
     exit(1)
