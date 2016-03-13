@@ -38,3 +38,16 @@
     x[0:4] = 'Mont'
     - The second number is one beyond the end of the slice
       'up to but not including'
+
+#### - 'in' as a Operator:
+    'a' in 'apple' = True
+    'x' in 'apple' = False
+
+#### - String Comparison:
+    Operators:- '==' '>' '<'
+
+#### - String Library:
+    greet = 'Hello there!'
+    greet.lower() - gives a lower case copy of greet but not change the variable
+    dir() - gives different functions that are available for your disposal
+    Ex: find(), strip(), startswith(), endswith()
