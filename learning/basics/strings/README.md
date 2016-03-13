@@ -17,9 +17,9 @@
 #### - We can use negative indices:
     "h  e  l  l  o"
      |  |  |  |  |
-     0  1  2  3  4 ########> positive indices
+     0  1  2  3  4 --> positive indices
      |  |  |  |  |
-    ####5 ####4 ####3 ####2 ####1 ########> negative indices
+    -5 -4 -3 -2 -1 --> negative indices
 
 #### - Strings are immutable which means, you cannot do the below:
     x = "hello"
