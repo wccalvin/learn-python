@@ -33,8 +33,8 @@
      | | | | | | | | | | | |
      0 1 2 3 4 5 6 7 8 9 10 11
 
-    > - Continous section of string using colon operator
-    > `x = 'Monty Python' 
-    > x[0:4] = 'Mont'
-    > - The second number is one beyond the end of the slice
-    >   'up to but not including'
+    - Continous section of string using colon operator
+    x = 'Monty Python' 
+    x[0:4] = 'Mont'
+    - The second number is one beyond the end of the slice
+      'up to but not including'
