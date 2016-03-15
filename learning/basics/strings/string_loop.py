@@ -1,4 +1,4 @@
-__author__ = 'wccalvin'
+#!/usr/bin/env python
 
 x = "STRING"
 

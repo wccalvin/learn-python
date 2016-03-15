@@ -1,4 +1,4 @@
-__author__ = 'wccalvin'
+#!/usr/bin/env python
 
 """slice: The operator [n:m] returns the part of the string from the n-eth character to the m-eth character.
    i.e. including the n and excluding the m."""

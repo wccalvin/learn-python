@@ -1,4 +1,4 @@
-__author__ = 'wccalvin'
+#!/usr/bin/env python
 
 # String search method
 s = "This is fun"
