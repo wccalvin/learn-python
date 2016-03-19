@@ -51,3 +51,4 @@
     greet.lower() - gives a lower case copy of greet but not change the variable
     dir() - gives different functions that are available for your disposal
     Ex: find(), strip(), startswith(), endswith()
+
