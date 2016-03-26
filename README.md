@@ -1,6 +1,6 @@
-# PYTHON REFERENCES
+# Python References
 
-### CONTENTS:
+### Contents:
 - Strings
 - Collections
   - Lists
