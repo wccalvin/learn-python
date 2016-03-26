@@ -1,4 +1,4 @@
-__author__ = 'wccalvin'
+#!/usr/bin/env python
 
 from sys import argv
 from sys import exit
@@ -18,4 +18,3 @@ print("Second: {}".format(two))
 print("Third: {}".format(three))
 print("Fourth: {}".format(four))
 print("Fifth: {}".format(five))
-
