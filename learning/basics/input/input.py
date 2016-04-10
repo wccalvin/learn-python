@@ -1,9 +1,13 @@
-__author__ = 'wccalvin'
+#!/usr/bin/env python
 
+######################################################################
 # Difference between raw_input() and input():
-# input() evaluates the input as python code (whether it is string or integer or float)
-# This means, if you are typing string as input, you should use the quote marks.
+# input() evaluates the input as python code (whether it is string or
+# integer or float)
+# This means, if you are typing string as input, you should use the 
+# quotes.
 # raw_input() assumes your input as string.
+######################################################################
 
 name = input("Enter an input? Note: Using input():\n")
 print(type(name))
@@ -14,11 +18,9 @@ print(type(name))
 print("Your name is: {}".format(name))
 
 
-
 # -------------------------------------------
 # Sample output (string):
 # -------------------------------------------
-# C:\Python27\python.exe D:/users/vwj/do_not_delete/py/learning/basics/input.py
 # Enter an input? Note: Using input():
 # "Clayton"
 # <type 'str'>
