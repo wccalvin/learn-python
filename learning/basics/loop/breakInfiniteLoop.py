@@ -1,6 +1,11 @@
-__author__ = 'wccalvin'
+#!/usr/bin/env python
 
-# break statement breaks out of the while loop clause early
+######################################################################
+# 
+# Description: break statement breaks out of the while loop clause 
+# early
+# 
+######################################################################
 
 number = 0
 while True:
