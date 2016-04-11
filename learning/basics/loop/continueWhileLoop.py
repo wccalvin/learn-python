@@ -1,7 +1,11 @@
-__author__ = 'wccalvin'
+#!/usr/bin/env python
 
-# continue statement jumps back to the start of the loop and re-evaluates
-# the condition.
+######################################################################
+# 
+# continue statement jumps back to the start of the loop and 
+# re-evaluates the condition.
+# 
+######################################################################
 
 num = 0
 while True:
@@ -14,4 +18,3 @@ while True:
 		continue
 	else:
 		num += 10
-
