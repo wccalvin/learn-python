@@ -14,9 +14,8 @@
     - Classes and Objects
     - Classes and Functions
     - Classes and Methods
+    - Sets of Objects
     - Inheritance
-- Sets of Objects
-- Inheritance
 - Networks and Sockets
 - Understanding HTML
 - Web Services and XML
