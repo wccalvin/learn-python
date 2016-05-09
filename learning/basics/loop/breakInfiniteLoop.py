@@ -9,7 +9,8 @@
 
 number = 0
 while True:
-	number += 1
-	if number == 100:
-		print("Counted to {}!".format(number))
-		break
+    number += 1
+    if number == 100:
+        print("Counted to {}!".format(number))
+	break
+
