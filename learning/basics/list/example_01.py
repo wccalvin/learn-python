@@ -2,8 +2,9 @@
 
 a_list = ['this', 'is', 'awesome', 'or', 'cool']
 
-def print_a_list(lst=a_list):
+
+def print_a_list(lst):
     for item in lst:
         print(item)
 
-print_a_list()
+print_a_list(a_list)
