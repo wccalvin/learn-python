@@ -9,6 +9,7 @@ print("Given command args: {}".format(parse_all))
 
 if len(parse_all) < 5:
     print("Not enough values to parse and print.")
+    print("Need five arguments to parse and print")
     exit(1)
 
 (one, two, three, four, five) = parse_all
