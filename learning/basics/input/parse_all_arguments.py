@@ -3,7 +3,6 @@
 from sys import argv
 
 parse_all = argv
-
 index = 0
 while index < len(parse_all):
     print("{} argument: {}".format(str(index + 1),

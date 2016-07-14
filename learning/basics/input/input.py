@@ -22,7 +22,7 @@ print("Your name is: {}".format(name))
 # -------------------------------------------
 # Enter an input? Note: Using input():
 # "Clayton"
-# <type 'str'>
+# <type 'str>
 # Your name is: Clayton
 # Enter an input? Note: Using raw_input():
 # Clayton
