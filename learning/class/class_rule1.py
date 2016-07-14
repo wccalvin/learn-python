@@ -10,4 +10,3 @@ print MyInst1
 
 MyInst2 = MyClass()
 print MyInst2
-
