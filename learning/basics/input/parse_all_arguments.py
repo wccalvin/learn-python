@@ -8,3 +8,4 @@ while index < len(parse_all):
     print("{} argument: {}".format(str(index + 1),
                                    parse_all[index]))
     index += 1
+print("{} is super fun.".format('My Program'))
