@@ -14,19 +14,13 @@ from regular def functions as below.
 
 Here's an example of how to square using regular def,
 
-    ```
     def square(num):
         return num**2
-    ```
 
 Although not recommended, it can also be written as,
 
-    ```
     def square(num): return num**2
-    ```
 
 This is how to write in lambda form,
 
-    ```
     square = lambda num: num**2
-    ```
