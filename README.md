@@ -1,6 +1,6 @@
 # Programming Using Python 
 
-## Python Object and Data Structure Basics
+## Object and Data Structure Basics
 * Numbers
 * Strings
 * Lists
@@ -8,12 +8,14 @@
 * Tuples
 * Sets
 
-## Python Boolean and Comparison
+## Boolean and Comparison
 * Booleans
 * Comparison operators
 
-## Python Statements
+## Conditionals
 * if, elif and else statements
+
+## Loops
 * for loops
 * while loops
 * range
@@ -23,6 +25,11 @@
 * function
 * lambda expressions
 * nested statements and scope
+
+## File operations
+* read
+* write
+* append
 
 ## Object Oriented Programming
 * objects
