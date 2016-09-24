@@ -1,6 +1,6 @@
 # Programming Using Python 
 
-## Object and Data Structure Basics
+## Data Structure Basics
 * Numbers
 * Strings
 * Lists
