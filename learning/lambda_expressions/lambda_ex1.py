@@ -4,10 +4,11 @@ addition = lambda num1, num2: num1 + num2
 multiplication = lambda num1, num2: num1 * num2
 
 # Check if the number is even using lambda expression
-even = lambda num: num%2 == 0
+even = lambda num: num % 2 == 0
 
 # Reverse a string using lambda expressions
 rev = lambda s: s[::-1]
+
 
 if __name__ == '__main__':
     print multiplication(2, 4)
