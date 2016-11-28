@@ -53,7 +53,12 @@ romanNumeralMap = zip(romanNumerals, equivalentIntegers)
 
 
 def toRoman(n, debug=None):
-    """convert integer to Roman numeral"""
+    """convert integer to Roman numeral
+    :rtype: str
+    :param n: integer value to convert to roman numeral
+    :param debug: prints debug statements
+    :return: converted roman numeral
+    """
     result = ""
     for numeral, integer in romanNumeralMap:
         if debug:
@@ -94,7 +99,7 @@ if __name__ == '__main__':
             print("INFO: Please choose an integer and try again!")
             exit(1)
         # Test to see if the given integer is within the desired range
-        if not (number > 0 and number < 4000):
+        if not (0 < number < 4000):
             print("ERROR: {} is not in the range of 1 to 3999.".format(number))
             print("INFO: Choose appropriately and try again!")
             exit(1)
@@ -111,7 +116,7 @@ if __name__ == '__main__':
         print("ERROR: Invalid input.")
         print("INFO: Please choose an integer and try again!")
         exit(1)
-    # Run convertion now
+    # Run conversion now
     roman_numeral = toRoman(int(number), debug=debug_switch)
     print("{} is converted as {} in roman numerals.".format(str(number),
                                                             roman_numeral))
