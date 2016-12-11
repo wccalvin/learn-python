@@ -3,6 +3,7 @@
 ## Data Structure Basics
 * Numbers
 * Strings
+* Input
 * Lists
 * Dictionaries
 * Tuples
