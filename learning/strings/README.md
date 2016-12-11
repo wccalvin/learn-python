@@ -30,13 +30,13 @@
     x = "j" + x[1:] # by taking advantage of slice
 
 ### Slicing Strings (sub strings):
-    "M O N T Y   P Y T H O N"
-     | | | | | | | | | | | |
-     0 1 2 3 4 5 6 7 8 9 10 11
+    "F O O   B A R
+     | | | | | | |
+     0 1 2 3 4 5 6
 
     - Continous section of string using colon operator
-      x = 'Monty Python' 
-      x[0:4] = 'Mont'
+      x = 'FOO BAR' 
+      x[0:4] = 'FOO '
     - The second number is one beyond the end of the slice
       'up to but not including'
 
