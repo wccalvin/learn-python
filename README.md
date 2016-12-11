@@ -1,4 +1,4 @@
-# Programming Using Python 
+# Programming Using Python
 
 ## Data Structure Basics
 * Numbers

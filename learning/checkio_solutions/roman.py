@@ -104,7 +104,7 @@ if __name__ == '__main__':
             print("INFO: Choose appropriately and try again!")
             exit(1)
         debug_switch = raw_input(
-            "Do you want to turn the debug ON to understand the logic?" +
+            "Do you want to turn the debug ON to understand the logic?"
             "type (y)es (default: no): ")
         if debug_switch.strip() == '':
             debug_switch = False

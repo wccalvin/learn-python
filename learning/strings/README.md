@@ -23,7 +23,8 @@
 
 #### - Strings are immutable which means, you cannot do the below:
     x = "hello"
-    x[0] = "j" # This is not allowed ####> will return TypeError: 'str' object does not support item assignment
+    x[0] = "j" # This is not allowed ####> will return TypeError: 'str' object
+    does not support item assignment
     If we need to do something like that, we can try as below:
     x = "hello"
     x = "j" + x[1:] # by taking advantage of slice
@@ -51,4 +52,3 @@
     greet.lower() - gives a lower case copy of greet but not change the variable
     dir() - gives different functions that are available for your disposal
     Ex: find(), strip(), startswith(), endswith()
-
