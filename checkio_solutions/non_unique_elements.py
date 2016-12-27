@@ -1,24 +1,12 @@
-# Your optional code here
-# You can import some modules or create additional functions
+#!/usr/local/bin/python
 
 
 def non_unique(data):
-    # Your code here
-    # It's main function. Don't remove this function
-    # It's used for auto-testing and must return a result for check.
     non_unique = []
     for elem in data:
         if data.count(elem) > 1:
             non_unique.append(elem)
-
-    # replace this for solution
     return non_unique
-
-# Some hints
-# You can use list.count(element) method for counting.
-# Create new list with non-unique elements
-# Loop over original list
-
 
 if __name__ == "__main__":
     # These "asserts" using only for self-checking and not necessary for

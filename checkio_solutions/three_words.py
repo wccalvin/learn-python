@@ -13,6 +13,7 @@ def three_words(words):
 # These "asserts" using only for self-checking and not necessary for
 # auto-testing
 if __name__ == '__main__':
+    print("Running this program!")
     assert three_words("Hello World hello") == True, "Hello"
     assert three_words("He is 123 man") == False, "123 man"
     assert three_words("1 2 3 4") == False, "Digits"
