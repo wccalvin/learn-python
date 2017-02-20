@@ -1,4 +1,10 @@
 # Programming Using Python
+## Introduction
+* Variable
+* Types
+* Function and Objects
+* Syntax and Style
+* Python Shell (REPL)
 
 ## Data Structure Basics
 * Numbers

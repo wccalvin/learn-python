@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 from sys import exit
 
 """
@@ -35,6 +37,7 @@ romanNumerals = ['M',
                  'V',
                  'IV',
                  'I']
+
 equivalentIntegers = [1000,
                       900,
                       500,
