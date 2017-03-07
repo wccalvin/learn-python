@@ -1,7 +1,11 @@
+#!/usr/local/bin/python3
+
+
 class Game(object):
+
     def __init__(self):
         self.current_score = [0, 0]
-  
+
     def score(self, player):
         self.player = player
 

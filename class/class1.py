@@ -2,6 +2,7 @@
 
 
 class Stuff(object):
+
     def __init__(self):
         self.idea = "This is just a variable stored"
 
@@ -9,5 +10,5 @@ class Stuff(object):
         return "I am Apple!"
 
 thing = Stuff()
-print thing.apple()
-print thing.idea
+print(thing.apple())
+print(thing.idea)

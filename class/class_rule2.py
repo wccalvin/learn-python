@@ -1,7 +1,10 @@
-"""RULE 2: Variables defined in the class are available to the instance."""
+"""
+RULE 2: Variables defined in the class are available to the instance.
+"""
+
 
 class MyClass(object):
-	var = "Class variable is available!"
+    var = "Class variable is available!"
 
 first_obj = MyClass()
 print first_obj.var
