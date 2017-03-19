@@ -10,6 +10,7 @@ def three_words(words):
             return True
     return False
 
+
 # These "asserts" using only for self-checking and not necessary for
 # auto-testing
 if __name__ == '__main__':

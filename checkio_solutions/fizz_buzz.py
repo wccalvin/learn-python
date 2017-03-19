@@ -15,6 +15,7 @@ def checkio(number):
     else:
         return str(number)
 
+
 if __name__ == '__main__':
     assert checkio(15) == "Fizz Buzz", '15 is divisible by 3 and 5'
     assert checkio(6) == "Fizz", "6 is divisible by 3"

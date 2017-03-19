@@ -1,6 +1,7 @@
 def checkio(numbers_array):
     return sorted(numbers_array, key=abs)
 
+
 if __name__ == '__main__':
     def check_it(array):
         if not isinstance(array, (list, tuple)):

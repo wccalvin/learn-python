@@ -4,6 +4,7 @@ def checkio(str_number, radix):
     except ValueError:
         return -1
 
+
 # These "asserts" using only for self-checking and not necessary for
 # auto-testing
 if __name__ == '__main__':

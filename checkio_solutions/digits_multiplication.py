@@ -5,6 +5,7 @@ def checkio(number):
         product *= int(number_list[i])
     return product
 
+
 # These "asserts" using only for self-checking and not necessary for
 # auto-testing
 if __name__ == '__main__':

@@ -1,4 +1,6 @@
 #!/usr/local/bin/python3
+
+
 def parent():
 
     print("This is parent()")
@@ -11,6 +13,7 @@ def parent():
         return "This is second_child()"
 
     print(second_child())
+
 
 if __name__ == "__main__":
     parent()

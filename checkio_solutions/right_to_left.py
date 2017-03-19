@@ -7,6 +7,7 @@ def left_join(phrases):
         only_left.append(word.replace("right", "left"))
     return ",".join(only_left)
 
+
 if __name__ == '__main__':
     # These "asserts" using only for self-checking and not necessary for
     # auto-testing
