@@ -1,3 +1,6 @@
+#!/usr/local/bin/python3
+
+
 def checkio(array):
     """
     sums even-indexes elements and multiply at the last

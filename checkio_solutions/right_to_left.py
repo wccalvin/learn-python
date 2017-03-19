@@ -1,3 +1,6 @@
+#!/usr/local/bin/python3
+
+
 def left_join(phrases):
     """
     Join strings and replace "right" to "left"

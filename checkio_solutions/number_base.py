@@ -1,3 +1,6 @@
+#!/usr/local/bin/python3
+
+
 def checkio(str_number, radix):
     try:
         return int(str_number, radix)

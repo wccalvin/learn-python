@@ -1,3 +1,6 @@
+#!/usr/local/bin/python3
+
+
 def index_power(array, n):
     """
     Find Nth power of the element with index N.

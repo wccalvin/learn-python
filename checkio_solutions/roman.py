@@ -1,4 +1,5 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
+
 
 from sys import exit
 
@@ -74,7 +75,7 @@ def toRoman(n, debug=None):
                 print("Debug: Append {} to the 'result', ".format(numeral) +
                       "which is now {} ".format(
                           '\'empty\'' if result == '' else result) +
-                      "(Remember: {} is {})".format(numeral, integer))
+                      "(Note: {} is {})".format(numeral, integer))
             result += numeral
             if debug:
                 print("Debug: Now the 'result' is {}".format(result))
@@ -89,6 +90,11 @@ if __name__ == '__main__':
     # Get info from the user
     try:
         number = input("Pick a number ranging from 1 to 3999: ")
+    except NameError:  # Catch NameError which can happen with bad user input
+        print("ERROR: Invalid input.")
+        print("INFO: Please choose an integer and try again!")
+        exit(1)
+    else:
         if isinstance(number, str):
             # Test to see if the string contains integer
             try:
@@ -107,19 +113,14 @@ if __name__ == '__main__':
             print("ERROR: {} is not in the range of 1 to 3999.".format(number))
             print("INFO: Choose appropriately and try again!")
             exit(1)
-        debug_switch = raw_input(
-            "Do you want to turn the debug ON to understand the logic?"
-            "type (y)es (default: no): ")
+        debug_switch = input("Debug ON? (y/N): ")
         if debug_switch.strip() == '':
             debug_switch = False
         elif debug_switch.strip().lower().startswith('y'):
             debug_switch = True
         else:
             debug_switch = None
-    except NameError:  # Catch NameError which can happen with bad user input
-        print("ERROR: Invalid input.")
-        print("INFO: Please choose an integer and try again!")
-        exit(1)
+
     # Run conversion now
     roman_numeral = toRoman(int(number), debug=debug_switch)
     print("{} is converted as {} in roman numerals.".format(str(number),

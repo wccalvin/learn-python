@@ -1,3 +1,6 @@
+#!/usr/local/bin/python3
+
+
 def checkio(number):
     """
     Problem: If a number is divisible by 3 and 5, the program says "Fizz Buzz"

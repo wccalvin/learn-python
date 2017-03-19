@@ -1,3 +1,6 @@
+#!/usr/local/bin/python3
+
+
 def checkio(*args):
     given_args = list(args)
     if len(given_args) > 0:

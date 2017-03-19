@@ -1,3 +1,6 @@
+#!/usr/local/bin/python3
+
+
 def checkio(number):
     number_list = [i for i in list(str(number)) if not i == '0']
     product = 1
