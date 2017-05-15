@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Using replace to translate few alphabets to numbers
 """
@@ -6,7 +6,7 @@ Using replace to translate few alphabets to numbers
 import sys
 
 try:
-    my_input = raw_input("Enter some text: ")
+    my_input = input("Enter some text: ")
 except KeyboardInterrupt:
     print("User aborted.")
     sys.exit(1)
