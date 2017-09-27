@@ -1,6 +1,5 @@
 #!/usr/local/bin/python3
 
-
 def parent():
 
     print("This is parent()")

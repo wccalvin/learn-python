@@ -9,6 +9,7 @@ class MyClass(object):
     def callme(self):
         return self  # This is added to experiment.
 
+
 myInst = MyClass()
 
 # To prove that instance is passed as first argument,

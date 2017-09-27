@@ -20,9 +20,12 @@ class Deck(object):
         return self.cards.pop()
 
 cards = Deck()
-cards.shuffle()
-print cards.deal()
-print cards.deal()
-print cards.deal()
-print cards.deal()
-print cards.deal()
+# cards.__doc__
+
+print(cards.deal())
+print(cards.deal())
+print(cards.deal())
+print(cards.deal())
+print(cards.deal())
+print(cards.deal())
+print(cards.deal())
