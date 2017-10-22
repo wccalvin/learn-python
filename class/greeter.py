@@ -9,6 +9,10 @@ class Greeter(object):
     def goodbye(self):
         print("Good Bye...")
 
+    def newMethod(self):
+        print("New method called")
+
+
 inst = Greeter()  # Creates instance for the class
 
 inst.hello()  # Invoke hello method in the class
