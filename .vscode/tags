@@ -1,0 +1,336 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+01_intro.py	../treehouse_class/basics/01_intro.py	1;"	kind:file	line:1
+02_exp_attribute.py	../treehouse_class/basics/02_exp_attribute.py	1;"	kind:file	line:1
+03_exp_method.py	../treehouse_class/basics/03_exp_method.py	1;"	kind:file	line:1
+COLORS	../class/monster_inheritance.py	/^COLORS = ["yellow", "red", "brown", "blue", "black", "green"]$/;"	kind:variable	line:3
+COLORS	../class/monster_subclass.py	/^COLORS = ["yellow", "red", "brown", "blue", "black", "green"]$/;"	kind:variable	line:3
+Character	../class/character.py	/^class Character(object):$/;"	kind:class	line:1
+Class	../class/encapsulation.py	/^class Class(object):$/;"	kind:class	line:20
+DataCheck	../class/attributes_recap.py	/^class DataCheck(object):$/;"	kind:class	line:15
+Deck	../class/deck_of_cards.py	/^class Deck(object):$/;"	kind:class	line:6
+Dice	../class/rolling_dice.py	/^class Dice(object):$/;"	kind:class	line:4
+Dragon	../class/monster_subclass.py	/^class Dragon(Monster):$/;"	kind:class	line:48
+Game	../class/game_score_example.py	/^class Game(object):$/;"	kind:class	line:4
+Goblin	../class/monster_subclass.py	/^class Goblin(Monster):$/;"	kind:class	line:33
+Greeter	../class/greeter.py	/^class Greeter(object):$/;"	kind:class	line:4
+Greeter	../class/greeter_arg.py	/^class Greeter(object):$/;"	kind:class	line:1
+InstanceCounter	../class/classData_instanceData.py	/^class InstanceCounter(object):$/;"	kind:class	line:8
+Integer	../class/encapsulation.py	/^class Integer(object):$/;"	kind:class	line:48
+MaxSizeList	../class/restrict_list.py	/^class MaxSizeList(object):$/;"	kind:class	line:1
+Monster	../class/monster_basic.py	/^class Monster:$/;"	kind:class	line:2
+Monster	../class/monster_inheritance.py	/^class Monster:$/;"	kind:class	line:5
+Monster	../class/monster_subclass.py	/^class Monster(object):$/;"	kind:class	line:5
+MyClass	../class/class_rule1.py	/^class MyClass(object):$/;"	kind:class	line:3
+MyClass	../class/class_rule2.py	/^class MyClass(object):$/;"	kind:class	line:6
+MyClass	../class/class_rule3.py	/^class MyClass(object):$/;"	kind:class	line:7
+MyClass	../class/class_rule4.py	/^class MyClass(object):$/;"	kind:class	line:5
+MyInst1	../class/class_rule1.py	/^MyInst1 = MyClass()$/;"	kind:variable	line:8
+MyInst2	../class/class_rule1.py	/^MyInst2 = MyClass()$/;"	kind:variable	line:11
+NewClass	../treehouse_class/basics/01_intro.py	/^class NewClass:$/;"	kind:class	line:1
+NumberIncrement	../class/init_constructor.py	/^class NumberIncrement(object):$/;"	kind:class	line:6
+Project_findLetterInWord.py	../data_structure_basics/strings/Project_findLetterInWord.py	1;"	kind:file	line:1
+Song	../class/class2.py	/^class Song(object):$/;"	kind:class	line:4
+Stuff	../class/class1.py	/^class Stuff(object):$/;"	kind:class	line:4
+Thief	../treehouse_class/basics/02_exp_attribute.py	/^class Thief:$/;"	kind:class	line:1
+Thief	../treehouse_class/basics/03_exp_method.py	/^class Thief:$/;"	kind:class	line:4
+Troll	../class/monster_subclass.py	/^class Troll(Monster):$/;"	kind:class	line:40
+__init__	../class/character.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:19
+__init__	../class/class1.py	/^    def __init__(self):$/;"	kind:member	line:6
+__init__	../class/class2.py	/^    def __init__(self, lyrics):$/;"	kind:member	line:6
+__init__	../class/classData_instanceData.py	/^    def __init__(self, num1):$/;"	kind:member	line:11
+__init__	../class/game_score_example.py	/^    def __init__(self):$/;"	kind:member	line:6
+__init__	../class/greeter_arg.py	/^	def __init__(self, name):$/;"	kind:member	line:3
+__init__	../class/init_constructor.py	/^	def __init__(self, value):$/;"	kind:member	line:8
+__init__	../class/monster_basic.py	/^	def __init__(self, **kwargs):$/;"	kind:member	line:4
+__init__	../class/monster_inheritance.py	/^	def __init__(self, **kwargs):$/;"	kind:member	line:14
+__init__	../class/monster_subclass.py	/^	def __init__(self, **kwargs):$/;"	kind:member	line:14
+__init__	../class/restrict_list.py	/^	def __init__(self, max):$/;"	kind:member	line:5
+__init__	../class/rolling_dice.py	/^    def __init__(self, sides):$/;"	kind:member	line:5
+__str__	../class/monster_subclass.py	/^	def __str__(self):$/;"	kind:member	line:24
+a	../class/restrict_list.py	/^a = MaxSizeList(3)$/;"	kind:variable	line:16
+a_list	../data_structure_basics/lists/example_01.py	/^a_list = ['this', 'is', 'awesome', 'or', 'cool']$/;"	kind:variable	line:3
+absolute_sorting.py	../checkio_solutions/absolute_sorting.py	1;"	kind:file	line:1
+addition	../functions/function_ex1.py	/^def addition(num1, num2):$/;"	kind:function	line:4
+addition	../lambda_expressions/lambda_ex1.py	/^addition = lambda num1, num2: num1 + num2$/;"	kind:variable	line:5
+almost_equal	../checkio_solutions/most_numbers.py	/^    def almost_equal(checked, correct, significant_digits):$/;"	kind:function	line:14
+apple	../class/class1.py	/^    def apple(self):$/;"	kind:member	line:9
+apple	../class/stuff.py	/^def apple():$/;"	kind:function	line:3
+argv	../data_structure_basics/input/parse_all_arguments.py	/^from sys import argv$/;"	kind:namespace	line:3
+attributes_recap.py	../class/attributes_recap.py	1;"	kind:file	line:1
+azog	../class/monster_subclass.py	/^azog  = Goblin()$/;"	kind:variable	line:56
+b	../class/restrict_list.py	/^b = MaxSizeList(1)$/;"	kind:variable	line:17
+battlecry	../class/monster_basic.py	/^	def battlecry(self):$/;"	kind:member	line:10
+battlecry	../class/monster_inheritance.py	/^	def battlecry(self):$/;"	kind:member	line:22
+battlecry	../class/monster_subclass.py	/^	def battlecry(self):$/;"	kind:member	line:29
+bird	../class/monster_basic.py	/^bird = Monster(sound="tweet", color="blue", weapon="beak")$/;"	kind:variable	line:15
+bird	../class/monster_inheritance.py	/^bird = Monster(sound="tweet", color="blue", weapon="beak")$/;"	kind:variable	line:27
+breakInfiniteLoop.py	../loops/breakInfiniteLoop.py	1;"	kind:file	line:1
+call_return	../functions/no_return.py	/^def call_return():$/;"	kind:function	line:8
+callme	../class/class_rule3.py	/^    def callme(self):$/;"	kind:member	line:9
+cards	../class/deck_of_cards.py	/^cards = Deck()$/;"	kind:variable	line:22
+character.py	../class/character.py	1;"	kind:file	line:1
+check	../class/attributes_recap.py	/^check = DataCheck()$/;"	kind:variable	line:22
+check_it	../checkio_solutions/absolute_sorting.py	/^    def check_it(array):$/;"	kind:function	line:9
+checkio	../checkio_solutions/absolute_sorting.py	/^def checkio(numbers_array):$/;"	kind:function	line:4
+checkio	../checkio_solutions/digits_multiplication.py	/^def checkio(number):$/;"	kind:function	line:4
+checkio	../checkio_solutions/even_the_last.py	/^def checkio(array):$/;"	kind:function	line:4
+checkio	../checkio_solutions/fizz_buzz.py	/^def checkio(number):$/;"	kind:function	line:4
+checkio	../checkio_solutions/most_numbers.py	/^def checkio(*args):$/;"	kind:function	line:4
+checkio	../checkio_solutions/number_base.py	/^def checkio(str_number, radix):$/;"	kind:function	line:4
+choice	../class/monster_inheritance.py	/^from random import randint, choice$/;"	kind:namespace	line:1
+choice	../class/monster_subclass.py	/^from random import randint, choice$/;"	kind:namespace	line:1
+class1.py	../class/class1.py	1;"	kind:file	line:1
+class2.py	../class/class2.py	1;"	kind:file	line:1
+classData_instanceData.py	../class/classData_instanceData.py	1;"	kind:file	line:1
+class_data	../class/attributes_recap.py	/^    class_data = "This is class data!"$/;"	kind:variable	line:16
+class_rule1.py	../class/class_rule1.py	1;"	kind:file	line:1
+class_rule2.py	../class/class_rule2.py	1;"	kind:file	line:1
+class_rule3.py	../class/class_rule3.py	1;"	kind:file	line:1
+class_rule4.py	../class/class_rule4.py	1;"	kind:file	line:1
+class_rule5_rule6.py	../class/class_rule5_rule6.py	1;"	kind:file	line:1
+clayton	../treehouse_class/basics/02_exp_attribute.py	/^clayton = Thief()$/;"	kind:variable	line:4
+complete_list	../class/restrict_list.py	/^	complete_list = []$/;"	kind:variable	line:3
+continueWhileLoop.py	../loops/continueWhileLoop.py	1;"	kind:file	line:1
+count	../class/classData_instanceData.py	/^    count = 0$/;"	kind:variable	line:9
+count	../projects/basics/shopping_list.py	/^def count(list_name):$/;"	kind:function	line:20
+counter	../class/classData_instanceData.py	/^    def counter(self):$/;"	kind:member	line:22
+current_value	../class/encapsulation.py	/^current_value = int_inst.get_value()$/;"	kind:variable	line:73
+deal	../class/deck_of_cards.py	/^    def deal(self):$/;"	kind:member	line:19
+debug_switch	../checkio_solutions/roman.py	/^            debug_switch = False$/;"	kind:variable	line:118
+debug_switch	../checkio_solutions/roman.py	/^            debug_switch = None$/;"	kind:variable	line:122
+debug_switch	../checkio_solutions/roman.py	/^            debug_switch = True$/;"	kind:variable	line:120
+debug_switch	../checkio_solutions/roman.py	/^        debug_switch = input("Debug ON? (y\/N): ")$/;"	kind:variable	line:116
+deck_of_cards.py	../class/deck_of_cards.py	1;"	kind:file	line:1
+difference	../functions/function_ex1.py	/^def difference(num1, num2):$/;"	kind:function	line:9
+digits_multiplication.py	../checkio_solutions/digits_multiplication.py	1;"	kind:file	line:1
+display	../projects/basics/shopping_list.py	/^def display(items):$/;"	kind:function	line:13
+dothis	../class/class_rule4.py	/^	def dothis(self):$/;"	kind:member	line:9
+dove	../class/monster_inheritance.py	/^dove = Monster(color="white", weapon="patience", action="fly", sound="tawtee", hit_points=25)$/;"	kind:variable	line:51
+emailDomain	../data_structure_basics/strings/string_findAndSlice.py	/^emailDomain = my_emailText[startIndex+1:endIndex]$/;"	kind:variable	line:9
+encapsulation.py	../class/encapsulation.py	1;"	kind:file	line:1
+end	../class/format.py	/^def end(seperator, times):$/;"	kind:function	line:8
+endIndex	../data_structure_basics/strings/string_findAndSlice.py	/^endIndex = my_emailText.find(' ', startIndex)  # read find documentation$/;"	kind:variable	line:8
+equivalentIntegers	../checkio_solutions/roman.py	/^equivalentIntegers = [1000,$/;"	kind:variable	line:42
+even_the_last.py	../checkio_solutions/even_the_last.py	1;"	kind:file	line:1
+example	../class/format.py	/^def example(seperator, number, times):$/;"	kind:function	line:4
+example_01.py	../data_structure_basics/lists/example_01.py	1;"	kind:file	line:1
+exit	../checkio_solutions/roman.py	/^from sys import exit$/;"	kind:namespace	line:4
+exit	../projects/basics/shopping_list.py	/^from sys import exit$/;"	kind:namespace	line:3
+experience	../class/character.py	/^    experience = 0$/;"	kind:variable	line:2
+file_obj	../regex/find_dates_time.py	/^file_obj = open('date_time_values.txt', 'r')$/;"	kind:variable	line:5
+file_obj	../regex/regex_basic.py	/^file_obj = open('example.txt', 'r')$/;"	kind:variable	line:3
+find	../data_structure_basics/strings/Project_findLetterInWord.py	/^def find(word, letter):$/;"	kind:function	line:3
+find	../data_structure_basics/strings/string_find_replace.py	/^find = s.find('f')$/;"	kind:variable	line:5
+find_dates_time.py	../regex/find_dates_time.py	1;"	kind:file	line:1
+find_message	../checkio_solutions/find_message.py	/^def find_message(text):$/;"	kind:function	line:4
+find_message.py	../checkio_solutions/find_message.py	1;"	kind:file	line:1
+first_child	../decorators/nested_functions.py	/^    def first_child():$/;"	kind:function	line:7
+first_obj	../class/class_rule2.py	/^first_obj = MyClass()$/;"	kind:variable	line:10
+fizz_buzz.py	../checkio_solutions/fizz_buzz.py	1;"	kind:file	line:1
+forLoop.py	../loops/forLoop.py	1;"	kind:file	line:1
+format	../class/attributes_recap.py	/^import format$/;"	kind:namespace	line:11
+format	../class/classData_instanceData.py	/^import format$/;"	kind:namespace	line:5
+format	../class/encapsulation.py	/^import format$/;"	kind:namespace	line:15
+format	../class/init_constructor.py	/^import format$/;"	kind:namespace	line:4
+format.py	../class/format.py	1;"	kind:file	line:1
+function_ex1.py	../functions/function_ex1.py	1;"	kind:file	line:1
+functions_firstClassObj.py	../decorators/functions_firstClassObj.py	1;"	kind:file	line:1
+game1	../class/rolling_dice.py	/^game1 = Dice(12)$/;"	kind:variable	line:12
+game2	../class/rolling_dice.py	/^game2 = Dice(20)$/;"	kind:variable	line:19
+game_score_example.py	../class/game_score_example.py	1;"	kind:file	line:1
+get	../class/classData_instanceData.py	/^    def get(self):$/;"	kind:member	line:19
+get_list	../class/restrict_list.py	/^	def get_list(self):$/;"	kind:member	line:12
+get_value	../class/encapsulation.py	/^    def get_value(self):$/;"	kind:member	line:57
+get_weapon	../class/character.py	/^    def get_weapon(self):$/;"	kind:member	line:5
+given_value	../class/encapsulation.py	/^    def given_value(self, val):$/;"	kind:member	line:22
+goodbye	../class/greeter.py	/^    def goodbye(self):$/;"	kind:member	line:9
+goodbye	../class/greeter_arg.py	/^	def goodbye(self):$/;"	kind:member	line:9
+greeter.py	../class/greeter.py	1;"	kind:file	line:1
+greeter_arg.py	../class/greeter_arg.py	1;"	kind:file	line:1
+hello	../class/greeter.py	/^    def hello(self):$/;"	kind:member	line:6
+hello	../class/greeter_arg.py	/^	def hello(self):$/;"	kind:member	line:6
+hello.py	../first_step/hello.py	1;"	kind:file	line:1
+help	../projects/basics/shopping_list.py	/^def help():$/;"	kind:function	line:6
+hit_points	../class/character.py	/^    hit_points = 10$/;"	kind:variable	line:3
+idea	../class/stuff.py	/^idea = "This is just a variable stored."$/;"	kind:variable	line:6
+import_stuff.py	../class/import_stuff.py	1;"	kind:file	line:1
+increment	../class/encapsulation.py	/^    def increment(self):$/;"	kind:member	line:60
+increment	../class/encapsulation.py	/^increment = int_inst.increment()$/;"	kind:variable	line:67
+increment	../class/init_constructor.py	/^	def increment(self):$/;"	kind:member	line:15
+index	../data_structure_basics/input/parse_all_arguments.py	/^index = 0$/;"	kind:variable	line:6
+index	../data_structure_basics/strings/string_loop.py	/^index = 0$/;"	kind:variable	line:12
+index_power	../checkio_solutions/index_power.py	/^def index_power(array, n):$/;"	kind:function	line:4
+index_power.py	../checkio_solutions/index_power.py	1;"	kind:file	line:1
+init_constructor.py	../class/init_constructor.py	1;"	kind:file	line:1
+input.py	../data_structure_basics/input/input.py	1;"	kind:file	line:1
+ins1	../class/init_constructor.py	/^ins1 = NumberIncrement(5)$/;"	kind:variable	line:20
+ins2	../class/init_constructor.py	/^ins2 = NumberIncrement("string")$/;"	kind:variable	line:27
+inst	../class/greeter.py	/^inst = Greeter()  # Creates instance for the class$/;"	kind:variable	line:16
+inst1	../class/encapsulation.py	/^inst1 = Class()$/;"	kind:variable	line:30
+inst1	../class/greeter_arg.py	/^inst1 = Greeter("foo") # Creates instance for the class$/;"	kind:variable	line:12
+inst2	../class/encapsulation.py	/^inst2 = Class()$/;"	kind:variable	line:34
+inst2	../class/greeter_arg.py	/^inst2 = Greeter("bar")$/;"	kind:variable	line:17
+inst_1	../class/classData_instanceData.py	/^inst_1 = InstanceCounter(2)$/;"	kind:variable	line:29
+inst_2	../class/classData_instanceData.py	/^inst_2 = InstanceCounter(4)$/;"	kind:variable	line:33
+inst_3	../class/classData_instanceData.py	/^inst_3 = InstanceCounter(6)$/;"	kind:variable	line:37
+inst_4	../class/classData_instanceData.py	/^inst_4 = InstanceCounter(8)$/;"	kind:variable	line:41
+inst_5	../class/classData_instanceData.py	/^inst_5 = InstanceCounter(10)$/;"	kind:variable	line:45
+int_inst	../class/encapsulation.py	/^int_inst = Integer()$/;"	kind:variable	line:64
+j	../loops/forLoop.py	/^    j = i**2$/;"	kind:variable	line:4
+lambda_ex1.py	../lambda_expressions/lambda_ex1.py	1;"	kind:file	line:1
+left_join	../checkio_solutions/right_to_left.py	/^def left_join(phrases):$/;"	kind:function	line:4
+line	../regex/find_dates_time.py	/^    line = line.strip()$/;"	kind:variable	line:8
+line	../regex/regex_basic.py	/^    line = line.strip()$/;"	kind:variable	line:6
+lion	../class/monster_basic.py	/^lion = Monster(color="brown", weapon="teeth", hit_points=5)$/;"	kind:variable	line:22
+lion	../class/monster_inheritance.py	/^lion = Monster(color="brown", weapon="teeth", hit_points=5)$/;"	kind:variable	line:34
+man	../class/monster_inheritance.py	/^man = Monster(hit_points=10)$/;"	kind:variable	line:42
+max_experience	../class/monster_inheritance.py	/^	max_experience = 1$/;"	kind:variable	line:10
+max_experience	../class/monster_subclass.py	/^	max_experience = 1$/;"	kind:variable	line:10
+max_experience	../class/monster_subclass.py	/^	max_experience = 10$/;"	kind:variable	line:52
+max_experience	../class/monster_subclass.py	/^	max_experience = 2$/;"	kind:variable	line:36
+max_experience	../class/monster_subclass.py	/^	max_experience = 6$/;"	kind:variable	line:44
+max_hit_points	../class/monster_inheritance.py	/^	max_hit_points = 1$/;"	kind:variable	line:8
+max_hit_points	../class/monster_subclass.py	/^	max_hit_points = 1$/;"	kind:variable	line:8
+max_hit_points	../class/monster_subclass.py	/^	max_hit_points = 10$/;"	kind:variable	line:50
+max_hit_points	../class/monster_subclass.py	/^	max_hit_points = 3$/;"	kind:variable	line:35
+max_hit_points	../class/monster_subclass.py	/^	max_hit_points = 5$/;"	kind:variable	line:42
+min_experience	../class/monster_inheritance.py	/^	min_experience = 1$/;"	kind:variable	line:9
+min_experience	../class/monster_subclass.py	/^	min_experience = 1$/;"	kind:variable	line:9
+min_experience	../class/monster_subclass.py	/^	min_experience = 2$/;"	kind:variable	line:43
+min_experience	../class/monster_subclass.py	/^	min_experience = 6$/;"	kind:variable	line:51
+min_hit_points	../class/monster_inheritance.py	/^	min_hit_points = 1$/;"	kind:variable	line:7
+min_hit_points	../class/monster_subclass.py	/^	min_hit_points = 1$/;"	kind:variable	line:7
+min_hit_points	../class/monster_subclass.py	/^	min_hit_points = 3$/;"	kind:variable	line:41
+min_hit_points	../class/monster_subclass.py	/^	min_hit_points = 5$/;"	kind:variable	line:49
+monster_basic.py	../class/monster_basic.py	1;"	kind:file	line:1
+monster_inheritance.py	../class/monster_inheritance.py	1;"	kind:file	line:1
+monster_subclass.py	../class/monster_subclass.py	1;"	kind:file	line:1
+most_numbers.py	../checkio_solutions/most_numbers.py	1;"	kind:file	line:1
+multiplication	../lambda_expressions/lambda_ex1.py	/^multiplication = lambda num1, num2: num1 * num2$/;"	kind:variable	line:6
+myInst	../class/class_rule3.py	/^myInst = MyClass()$/;"	kind:variable	line:13
+myInst1	../class/class_rule4.py	/^myInst1 = MyClass()$/;"	kind:variable	line:12
+myInst2	../class/class_rule4.py	/^myInst2 = MyClass()$/;"	kind:variable	line:15
+my_emailText	../data_structure_basics/strings/string_findAndSlice.py	/^my_emailText = 'From clayton.calvin@gmail.com Tue Mar 6'$/;"	kind:variable	line:3
+my_input	../data_structure_basics/code_samples/translate_using_replace.py	/^    my_input = input("Enter some text: ")$/;"	kind:variable	line:9
+name	../data_structure_basics/input/input.py	/^name = input("Enter an input? Note: Using input():\\n")$/;"	kind:variable	line:12
+name	../data_structure_basics/input/input.py	/^name = raw_input("Enter an input? Note: Using raw_input():\\n")$/;"	kind:variable	line:16
+name	../loops/sayMyName.py	/^    name = raw_input("Say my Name: ").lower()$/;"	kind:variable	line:5
+name	../loops/sayMyName.py	/^name = ""$/;"	kind:variable	line:3
+name	../treehouse_class/basics/01_intro.py	/^    name = 'Clayton'$/;"	kind:variable	line:2
+name	../treehouse_class/basics/01_intro.py	/^name = new_instance.name_method()$/;"	kind:variable	line:8
+name_method	../treehouse_class/basics/01_intro.py	/^    def name_method(self):$/;"	kind:member	line:4
+nested_functions.py	../decorators/nested_functions.py	1;"	kind:file	line:1
+newMethod	../class/greeter.py	/^    def newMethod(self):$/;"	kind:member	line:12
+new_instance	../treehouse_class/basics/01_intro.py	/^new_instance = NewClass()$/;"	kind:variable	line:7
+no_return	../functions/no_return.py	/^def no_return():$/;"	kind:function	line:4
+no_return.py	../functions/no_return.py	1;"	kind:file	line:1
+non_unique	../checkio_solutions/non_unique_elements.py	/^def non_unique(data):$/;"	kind:function	line:4
+non_unique_elements.py	../checkio_solutions/non_unique_elements.py	1;"	kind:file	line:1
+num	../loops/continueWhileLoop.py	/^num = 0$/;"	kind:variable	line:9
+number	../checkio_solutions/roman.py	/^                number = int(number)$/;"	kind:variable	line:101
+number	../checkio_solutions/roman.py	/^        number = input("Pick a number ranging from 1 to 3999: ")$/;"	kind:variable	line:92
+number	../loops/breakInfiniteLoop.py	/^number = 0$/;"	kind:variable	line:8
+number_base.py	../checkio_solutions/number_base.py	1;"	kind:file	line:1
+parent	../decorators/nested_functions.py	/^def parent():$/;"	kind:function	line:3
+parse_all	../data_structure_basics/input/parse_all_arguments.py	/^parse_all = argv$/;"	kind:variable	line:5
+parse_all_arguments.py	../data_structure_basics/input/parse_all_arguments.py	1;"	kind:file	line:1
+pete	../class/monster_subclass.py	/^pete  = Dragon()$/;"	kind:variable	line:58
+pickpocket	../treehouse_class/basics/03_exp_method.py	/^    def pickpocket(self):$/;"	kind:member	line:7
+play	../class/game_score_example.py	/^play = Game()$/;"	kind:variable	line:21
+player	../class/character.py	/^player = Character()$/;"	kind:variable	line:27
+prefix	../data_structure_basics/strings/string_concatenation.py	/^prefix = "JBLM"$/;"	kind:variable	line:3
+print.py	../data_structure_basics/strings/print.py	1;"	kind:file	line:1
+print_a_list	../data_structure_basics/lists/example_01.py	/^def print_a_list(lst):$/;"	kind:function	line:6
+print_function	../data_structure_basics/code_samples/python3_print.py	/^from __future__ import print_function$/;"	kind:namespace	line:4
+push	../class/restrict_list.py	/^	def push(self, elements):$/;"	kind:member	line:8
+python3_print.py	../data_structure_basics/code_samples/python3_print.py	1;"	kind:file	line:1
+randint	../class/class_rule4.py	/^from random import randint$/;"	kind:namespace	line:3
+randint	../class/monster_inheritance.py	/^from random import randint, choice$/;"	kind:namespace	line:1
+randint	../class/monster_subclass.py	/^from random import randint, choice$/;"	kind:namespace	line:1
+random	../class/deck_of_cards.py	/^import random$/;"	kind:namespace	line:3
+random	../class/rolling_dice.py	/^import random$/;"	kind:namespace	line:1
+random	../treehouse_class/basics/03_exp_method.py	/^import random$/;"	kind:namespace	line:1
+re	../regex/find_dates_time.py	/^import re$/;"	kind:namespace	line:3
+re	../regex/regex_basic.py	/^import re$/;"	kind:namespace	line:1
+recursive_function.py	../functions/recursive_function.py	1;"	kind:file	line:1
+regex_basic.py	../regex/regex_basic.py	1;"	kind:file	line:1
+replace	../data_structure_basics/strings/string_find_replace.py	/^replace = s.replace('fun', 'cool!')$/;"	kind:variable	line:10
+restrict_list.py	../class/restrict_list.py	1;"	kind:file	line:1
+return_value	../class/encapsulation.py	/^    def return_value(self):$/;"	kind:member	line:25
+rev	../lambda_expressions/lambda_ex1.py	/^rev = lambda s: s[::-1]$/;"	kind:variable	line:12
+rfunc	../functions/recursive_function.py	/^def rfunc(num):$/;"	kind:function	line:11
+right_to_left.py	../checkio_solutions/right_to_left.py	1;"	kind:file	line:1
+roll	../class/rolling_dice.py	/^    def roll(self):$/;"	kind:member	line:8
+rolling_dice.py	../class/rolling_dice.py	1;"	kind:file	line:1
+roman.py	../checkio_solutions/roman.py	1;"	kind:file	line:1
+romanNumeralMap	../checkio_solutions/roman.py	/^romanNumeralMap = zip(romanNumerals, equivalentIntegers)$/;"	kind:variable	line:56
+romanNumerals	../checkio_solutions/roman.py	/^romanNumerals = ['M',$/;"	kind:variable	line:28
+roman_numeral	../checkio_solutions/roman.py	/^    roman_numeral = toRoman(int(number), debug=debug_switch)$/;"	kind:variable	line:125
+rp_a	../data_structure_basics/code_samples/translate_using_replace.py	/^rp_a = my_input.replace('a', str(4))$/;"	kind:variable	line:14
+rp_b	../data_structure_basics/code_samples/translate_using_replace.py	/^rp_b = rp_a.replace('b', str(8))$/;"	kind:variable	line:15
+rp_e	../data_structure_basics/code_samples/translate_using_replace.py	/^rp_e = rp_b.replace('e', str(3))$/;"	kind:variable	line:16
+rp_l	../data_structure_basics/code_samples/translate_using_replace.py	/^rp_l = rp_e.replace('l', str(1))$/;"	kind:variable	line:17
+rp_o	../data_structure_basics/code_samples/translate_using_replace.py	/^rp_o = rp_l.replace('o', str(0))$/;"	kind:variable	line:18
+rp_s	../data_structure_basics/code_samples/translate_using_replace.py	/^rp_s = rp_o.replace('s', str(5))$/;"	kind:variable	line:19
+rp_t	../data_structure_basics/code_samples/translate_using_replace.py	/^rp_t = rp_s.replace('t', str(7))$/;"	kind:variable	line:20
+runThis	../eclipse/sample.py	/^def runThis():$/;"	kind:function	line:2
+s	../data_structure_basics/strings/string_find_replace.py	/^s = "This is fun"$/;"	kind:variable	line:4
+sample.py	../eclipse/sample.py	1;"	kind:file	line:1
+sayMyName.py	../loops/sayMyName.py	1;"	kind:file	line:1
+score	../class/game_score_example.py	/^    def score(self, player):$/;"	kind:member	line:9
+second_child	../decorators/nested_functions.py	/^    def second_child():$/;"	kind:function	line:11
+second_obj	../class/class_rule2.py	/^second_obj = MyClass()$/;"	kind:variable	line:13
+set	../class/attributes_recap.py	/^    def set(self):$/;"	kind:member	line:18
+set	../class/classData_instanceData.py	/^    def set(self, num2):$/;"	kind:member	line:16
+set_value	../class/encapsulation.py	/^    def set_value(self, val):$/;"	kind:member	line:50
+shopping_list.py	../projects/basics/shopping_list.py	1;"	kind:file	line:1
+shuffle	../class/deck_of_cards.py	/^    def shuffle(self):$/;"	kind:member	line:8
+sing_along	../class/class2.py	/^    def sing_along(self):$/;"	kind:member	line:9
+slice	../data_structure_basics/strings/string_slice.py	/^slice = x[3:6]$/;"	kind:variable	line:17
+snaga	../class/monster_subclass.py	/^snaga = Troll()$/;"	kind:variable	line:57
+sneaky	../treehouse_class/basics/02_exp_attribute.py	/^    sneaky = True$/;"	kind:variable	line:2
+sneaky	../treehouse_class/basics/03_exp_method.py	/^    sneaky = True$/;"	kind:variable	line:5
+song1	../class/class2.py	/^song1 = Song(["Happy birthday to you", "I don't want to get sued",$/;"	kind:variable	line:13
+song2	../class/class2.py	/^song2 = Song(["They rally around the family", "With pockets full of shells"])$/;"	kind:variable	line:15
+sound	../class/monster_inheritance.py	/^	sound          = "roar"$/;"	kind:variable	line:12
+sound	../class/monster_subclass.py	/^	sound          = "growl"$/;"	kind:variable	line:45
+sound	../class/monster_subclass.py	/^	sound          = "raaaaaaaaaar"$/;"	kind:variable	line:53
+sound	../class/monster_subclass.py	/^	sound          = "roar"$/;"	kind:variable	line:12
+sound	../class/monster_subclass.py	/^	sound          = "squeak"	$/;"	kind:variable	line:37
+square	../functions/function_ex1.py	/^def square(num):$/;"	kind:function	line:14
+square	../functions/yield.py	/^def square(num):$/;"	kind:function	line:4
+startIndex	../data_structure_basics/strings/string_findAndSlice.py	/^startIndex = my_emailText.find('@')$/;"	kind:variable	line:7
+status	../data_structure_basics/strings/Project_findLetterInWord.py	/^status = find("clayton", "c")$/;"	kind:variable	line:11
+string_concatenation.py	../data_structure_basics/strings/string_concatenation.py	1;"	kind:file	line:1
+string_findAndSlice.py	../data_structure_basics/strings/string_findAndSlice.py	1;"	kind:file	line:1
+string_find_replace.py	../data_structure_basics/strings/string_find_replace.py	1;"	kind:file	line:1
+string_loop.py	../data_structure_basics/strings/string_loop.py	1;"	kind:file	line:1
+string_slice.py	../data_structure_basics/strings/string_slice.py	1;"	kind:file	line:1
+stuff	../class/import_stuff.py	/^import stuff$/;"	kind:namespace	line:3
+stuff	../class/import_stuff.py	/^import stuff$/;"	kind:namespace	line:4
+stuff.py	../class/stuff.py	1;"	kind:file	line:1
+suffix	../data_structure_basics/strings/string_concatenation.py	/^suffix = "ack"$/;"	kind:variable	line:4
+sys	../data_structure_basics/code_samples/translate_using_replace.py	/^import sys$/;"	kind:namespace	line:6
+sys	../functions/recursive_function.py	/^import sys$/;"	kind:namespace	line:3
+test	../decorators/functions_firstClassObj.py	/^def test(arg):$/;"	kind:function	line:4
+test_increment	../class/encapsulation.py	/^test_increment = int_inst.increment()$/;"	kind:variable	line:75
+thief_instance	../treehouse_class/basics/03_exp_method.py	/^thief_instance = Thief()$/;"	kind:variable	line:12
+thing	../class/class1.py	/^thing = Stuff()$/;"	kind:variable	line:12
+three_words	../checkio_solutions/three_words.py	/^def three_words(words):$/;"	kind:function	line:4
+three_words.py	../checkio_solutions/three_words.py	1;"	kind:file	line:1
+toRoman	../checkio_solutions/roman.py	/^def toRoman(n, debug=None):$/;"	kind:function	line:59
+translate_using_replace.py	../data_structure_basics/code_samples/translate_using_replace.py	1;"	kind:file	line:1
+unpacking.py	../data_structure_basics/input/unpacking.py	1;"	kind:file	line:1
+value	../class/encapsulation.py	/^value = int_inst.get_value()$/;"	kind:variable	line:66
+var	../class/class_rule2.py	/^    var = "Class variable is available!"$/;"	kind:variable	line:8
+var_stable	../class/class_rule4.py	/^	var_stable    = 5$/;"	kind:variable	line:7
+weapon	../class/monster_inheritance.py	/^	weapon         = "sword"$/;"	kind:variable	line:11
+weapon	../class/monster_subclass.py	/^	weapon         = "sword"$/;"	kind:variable	line:11
+x	../data_structure_basics/strings/string_loop.py	/^x = "STRING"$/;"	kind:variable	line:3
+x	../data_structure_basics/strings/string_slice.py	/^x = "my string"$/;"	kind:variable	line:9
+yield.py	../functions/yield.py	1;"	kind:file	line:1
