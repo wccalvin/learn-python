@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+""" Code example for lambda function. """
 
 
 addition = lambda num1, num2: num1 + num2
