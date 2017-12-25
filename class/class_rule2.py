@@ -1,7 +1,7 @@
+#!/usr/local/bin/python2
 """
 RULE 2: Variables defined in the class are available to the instance.
 """
-
 
 class MyClass(object):
     """Adding sample documentation for example"""

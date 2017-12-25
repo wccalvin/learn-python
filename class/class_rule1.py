@@ -1,7 +1,8 @@
+#!/usr/local/bin/python2
 """RULE 1: An instance of a class knows what class its from."""
 
 class MyClass(object):
-	pass
+    pass
 
 # Creating two instances to prove the theory that they are independant!
 

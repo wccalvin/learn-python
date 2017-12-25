@@ -1,8 +1,8 @@
+#!/usr/local/bin/python2
 """
 RULE 3: A method on an instance passes instance as the first argument to the
 method. (named self in the method)
 """
-
 
 class MyClass(object):
 

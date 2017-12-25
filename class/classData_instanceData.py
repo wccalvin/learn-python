@@ -1,7 +1,9 @@
+#!/usr/local/bin/python2
 """
 1. An instance can access class data.
 2. Class data is the data which is intended to be shared among instances.
 """
+
 import format
 
 

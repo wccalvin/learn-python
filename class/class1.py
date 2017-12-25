@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+#!//usr/local/bin/python2
 
 class Stuff(object):
 
@@ -10,5 +9,5 @@ class Stuff(object):
         return "I am Apple!"
 
 thing = Stuff()
-print(thing.apple())
-print(thing.idea)
+print thing.apple()
+print thing.idea

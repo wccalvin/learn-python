@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+#!//usr/local/bin/python2
 
 class Song(object):
     """This is for song lyrics"""
@@ -10,9 +9,7 @@ class Song(object):
         for line in self.lyrics:
             print line
 
-song1 = Song(["Happy birthday to you", "I don't want to get sued",
-              "So I'll stop right there"])
-song2 = Song(["They rally around the family", "With pockets full of shells"])
+song1 = Song(['I found a love for me', 'Darling just dive right in',
+              'And follow my lead'])
 
 song1.sing_along()
-song2.sing_along()
