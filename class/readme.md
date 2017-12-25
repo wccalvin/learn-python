@@ -1,22 +1,26 @@
 # Object oriented programming (OOP)
 
-## The What?
+## The What
+
 - A paradigm for code design
 - Organization of data (objects) + functionality (methods)
 
-## The Why?
+## The Why
+
 - Easier to handle complexity
 - Code extensions
 - Code maintenance
 - Collabration
 - Common software design world wide
 
-## OOP - Three Pillars:
+## OOP - Three Pillars
+
 - Encapsulation
 - Inheritance
 - Polymorphism
 
-## Terminologies:
+## Terminologies
+
 - Class: "blueprin" for an instance
 - Instance: "object" of the Class
 - Attribute: any "object value"
