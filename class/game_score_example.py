@@ -3,12 +3,11 @@
 
 class Game(object):
 
-    def __init__(self):
+    def __init__(self, player):
         self.current_score = [0, 0]
-
-    def score(self, player):
         self.player = player
 
+    def score(self):
         if self.player == 1:
             increment = self.current_score[0] + 1
             self.current_score[0] = increment
@@ -18,5 +17,5 @@ class Game(object):
             self.current_score[1] = increment
             return self.current_score
 
-play = Game()
-print play.score(1)
+play = Game(1)
+print play.score()
