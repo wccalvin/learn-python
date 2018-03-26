@@ -15,10 +15,13 @@ print clayton.sneaky
 # call the attribute directly from class
 print Thief().sneaky
 
+# another way to do the above
+print Thief.sneaky
+
 # change the instance attribute value
 clayton.sneaky = False
 print clayton.sneaky
 
 # can we change the attribute value directly in the class?
-Thief().sneaky = False
-print Thief().sneaky  # No, we can't.
+Thief.sneaky = False
+print Thief.sneaky  # No, we can't.
