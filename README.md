@@ -78,3 +78,10 @@
 * timeit
 * re - regular expressions
 * stringIO
+
+## Python Cookbook examples
+* Data Structures
+* Strings
+* Number
+* Dates
+* Times
