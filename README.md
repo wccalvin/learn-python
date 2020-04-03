@@ -44,6 +44,7 @@
 * methods
 * inheritance
 * special methods
+* property decorators
 
 ## Errors and Exception Handling
 * try, except and finally
